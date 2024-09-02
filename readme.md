@@ -2,6 +2,7 @@
 # Alura Kaggle competitition for fraud transaction in April/24
 
 ## **🏆🏆 AWARD 1ST PLACE 🏆🏆**
+## **🏆🏆 VENCEDOR DA COMPETIÇÃO 🏆🏆**
 
 
 <br>
@@ -23,6 +24,42 @@ The project was designed using Google Colab.
 O Projeto foi feito usando o Google Colab.
 
 <a href="./Kaggle_Competition_Award.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+
+### Bibliotecas utilizadas
+This project used the following library:
+
+Este projeto utiliza as seguintes bibliotecas
+
+- `Pandas`
+- `Numpy`
+- `Plotly`
+- `Sklearn`
+
+### Pré-processamento de Dados
+Os dados foram pré-processados utilizando as seguintes técnicas:
+
+- **OneHotEncoder**
+- **make_column_transformer**
+- **StandardScaler**
+- **SMOTE** (para lidar com classes desbalanceadas)
+
+### Modelos Utilizados
+Os seguintes modelos de machine learning foram aplicados para a classificação:
+
+- `DummyClassifier`
+- `DecisionTreeClassifier`
+- `RandomForestClassifier`
+- `XGBClassifier`
+  
+O modelo que apresentou melhor acurácia foi o RandomForestClassifier com uma **acurácia de 99,8794% e uma precisão de 99,885%!**
+
+| Rank | Model                    | Accuracy  | Precision |
+|------|--------------------------|-----------|-----------|
+| 1    | RandomForest             | 0.9987  | 0.9988  |
+| 2    | DecisionTreeClassifier    | 0.9974  | 0.9974  |
+| 3    | XGBClassifier            | 0.9625  | 0.9831  |
+| 4    | DummyClassifier          | 0.5000  | 0.2499  |
+
 
 ## Connect with author:
 
