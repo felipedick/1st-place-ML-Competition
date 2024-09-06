@@ -14,7 +14,7 @@ O modelo final obteve um score de 99,897%, conquistando o **primeiro lugar** na 
 O objetivo da competição foi prever a probabilidade de uma transação de cartão de crédito ser fraudulenta ou não. A competição durou de 30 de janeiro a 5 de abril de 2024, e os participantes receberam datasets para treinar e avaliar seus modelos de Machine Learning.
 
 ## 1.4 Contexto
-Em 2022, o volume de transações com cartões de crédito cresceu cerca de 35%, segundo a ABECS, atingindo R$ 3,31 trilhões e movimentando a maioria (52,9%) do consumo das famílias brasileiras. Isso ressalta a importância de detectar fraudes em transações de cartão de crédito.
+Em 2022, o volume de transações com cartões de crédito cresceu cerca de 35%, segundo a ABECS (Associação Brasileira das Empresas de Cartões de Crédito e Serviço), atingindo R$ 3,31 trilhões e movimentando a maioria (52,9%) do consumo das famílias brasileiras. Isso ressalta a importância de detectar fraudes em transações de cartão de crédito.
 
 ---
 
