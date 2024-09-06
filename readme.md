@@ -20,8 +20,8 @@ Em 2022, o volume de transações com cartões de crédito cresceu cerca de 35%,
 
 # 2. O Projeto
 
-## 2.1 Jupyter Notebook
-O projeto foi realizado usando o Google Colab. 
+## 2.1 Jupyter Notebook / Google Colab
+O projeto foi realizado usando o Google Colab. Você pode acessá-lo abaixo
 
 [Abrir](https://github.com/felipedick/1st-place-Machine-Learning-Competittion/blob/main/Alura_Fraud_Transaction_Competition_Award.ipynb)
 
